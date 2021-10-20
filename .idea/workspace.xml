@@ -4,14 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="922679b3-042d-4759-b5f0-ec9921750cde" name="Changes" comment="" />
+    <list default="true" id="922679b3-042d-4759-b5f0-ec9921750cde" name="Changes" comment="123" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7539a57d-9c38-4460-9106-3bcac057177b" />
+        <option name="url" value="https://github.com/asprog/maven.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="1zmaJFqxS4xH7iywqrZXsNLJtrD" />
   <component name="ProjectViewState">
